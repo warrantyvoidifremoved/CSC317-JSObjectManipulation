@@ -4,17 +4,11 @@ This repository contains the files for JS Object Manipulation Assignment, with t
 Output of sculptureScript.js using data.js:
 
 SculptureLengths {
-
   name: 26,
-
   artist: 20,
-
   description: 198,
-
   url: 31,
-
   alt: 90
-
 }
 
 SculptureLengths {
