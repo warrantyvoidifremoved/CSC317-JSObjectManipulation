@@ -1,5 +1,5 @@
 # CSC-317 Assignment: JavaScript Object Manipulation with Node.js
-This repository contains the files for JS Object Manipulation Assignment, with the final product being a Node.js script that processes a list of objects and creates a new object based on the lengths of the values in the original objects.
+This repository contains the files for the __JavaScript Object Manipulation with Node.js__ CSC 317 assignment, with the final product being a Node.js script that processes a list of objects and creates a new object based on the lengths of the values in the original objects.
 
 Output of sculptureScript.js using data.js:
 
